@@ -40,4 +40,4 @@ This project is licensed under the MIT License.
 ## Contact Information
 For any inquiries, please contact:
 - Name: Kashif Niaxi
-- Email: kashifniaxi@example.com
+- Email: kashifkhan0516@gmail.com
